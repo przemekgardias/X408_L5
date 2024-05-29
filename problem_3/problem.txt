@@ -6,4 +6,6 @@ Should prompt the user for a name for the note, then for the note content and th
 
 Please...
 A. Identify the bug
+name replaced with content, while asking user about the content
 B. Suggest a fix for the bug
+Added message to the user with the name of the file to which the content was saved
