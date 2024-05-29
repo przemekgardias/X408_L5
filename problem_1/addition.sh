@@ -1,7 +1,6 @@
 #!/usr/bin/bash
 
-source math_function
+source math_functions.sh
 
-add_two_numbers $1 $2
 
 
