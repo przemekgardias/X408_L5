@@ -10,3 +10,6 @@ To the begining of each c file.  It is broken.
 Please...
 A. Identify the bug
 B. Suggest a fix for the bug
+1. Create a temp file, a copy of the *.c file
+2. Add header to temp file
+3. Replace the original file
