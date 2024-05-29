@@ -8,10 +8,8 @@ Please
 
 A. Identify the bug
 B. Suggest a fix for the bug
-
-
-
-HINT RULE1
-
-Resolution:
 ./addition.sh.sh 1 2
+
+
+
+HINT RULE
